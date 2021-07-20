@@ -1,3 +1,5 @@
+*Preparing for CHS/CHT Translation*
+
 Settings Guide
 ====
 This Cura plug-in provides additional explanations with pictures and animations for many Cura settings.
